@@ -20,3 +20,4 @@ If you lost or can't access the owner (primary) wallet, you can launch owner wal
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Chora wallet: recovery</p></figcaption></figure>
 
+You can find more info and the link to the app on the main page [https://chora.cc](https://chora.cc)   &#x20;
